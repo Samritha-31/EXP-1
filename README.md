@@ -62,9 +62,9 @@ Calculation:
 a.   KVL:
 
 $$ V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega} $$
-\\V_{1}=V_{30\Omega}=IR_{1}=0.556\times30=16.68V
-\\V_{2}=V_{50\Omega}=IR_{2}=0.556\times50=27.8V
-\\V_{3}=V_{100\Omega}=IR_{3}=0.556\times100=55.6V
+$$ \\V_{1}=V_{30\Omega}=IR_{1}=0.556\times30=16.68V $$
+$$ \\V_{2}=V_{50\Omega}=IR_{2}=0.556\times50=27.8V $$
+$$ \\V_{3}=V_{100\Omega}=IR_{3}=0.556\times100=55.6V $$
 
  
 
