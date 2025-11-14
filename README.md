@@ -46,13 +46,15 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
 
-C:\Users\acer\Pictures\Screenshots
+<img width="1487" height="762" alt="BEEE 1" src="https://github.com/user-attachments/assets/13960cb5-3de1-4a07-9309-fb40de92f028" />
+
  
 
 
 b.  KCL:
 
-C:\Users\acer\Pictures\Screenshots
+<img width="1137" height="431" alt="BEEE 2" src="https://github.com/user-attachments/assets/f2f3c892-4706-4f83-a634-eeb50543d284" />
+
  
 
 Calculation:
