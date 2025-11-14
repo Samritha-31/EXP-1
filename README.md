@@ -45,10 +45,14 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+
+C:\Users\acer\Pictures\Screenshots
  
 
 
 b.  KCL:
+
+C:\Users\acer\Pictures\Screenshots
  
 
 Calculation:
