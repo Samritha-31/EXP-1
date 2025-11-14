@@ -40,6 +40,7 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
+
 CIRCUIT DIAGRAM:
 
 
@@ -53,6 +54,8 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
+
+$$ V=V_{30\Omega}+V_{50\Omega}+V_{100\Omega} $$
  
 
 
